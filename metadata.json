@@ -1,0 +1,6 @@
+{
+  "name": "Lekker Bites",
+  "description": "A premium, mobile-first ordering and tracking app for a South African fast food store, featuring local payment simulation (Yoco/PayFast), loyalty rewards, and interactive order tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
